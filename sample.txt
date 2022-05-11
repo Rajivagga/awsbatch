@@ -1,0 +1,1 @@
+Git initializing and making first commit
