@@ -1,1 +1,1 @@
-sampletext3 new file created on stage branch 
+ Devops training class
